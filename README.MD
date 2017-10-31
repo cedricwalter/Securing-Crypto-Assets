@@ -199,38 +199,54 @@ As secure as the computer they run on...
   * can be loss and stolen
   * can be splitted ex: requiring X of Y shares 
 
+# Exchanges
+The rule of thumb
+* Select one convenient but also reliable / secure / trusted / reputable
+* don't keep online what you're not ready to loose!
+* keep online only what you want to trade: no middle/long term storage
 
+## Securing exchange access
+* try to restrict access, whitelist your IP if you use VPN
+* use 2FA
+* Spread investments among different exchanges
+* Use a private email per service use nowhere else
 
+## Avoiding exchanges bankruptcy
 
+Keep your eye on them
+* Read press for signals
+* CIO/CTO step down
+* Celebrities disengage: read their twitter
+* listen to rumors
+* slow response to user tickets
+* frequent technical issues may lead to 
+* introduced questionable administration policies?
+* crash during high trade, but execute still at disadvantageous price.
 
+### Remember they are not regulated!
+* Exchange control the keys to your wallet. 
+* When exploits are found, we often don’t know until it happens.
 
+# Cellphone
+**Different types**
+* Dedicated: a phone number none of your family, friends, relatives, or social networks know that you use
+  * Get a burner phone
+  * Google Voice number
+* Public
+  * your regular phone
+  * bad known everywhere
 
+# Behaviour
+## DO NOT paint a target on you
+* Do not publish your emails in forums that you also use for exchanges
+* Do not reveal your REAL timezone: hacker like to act when you're sleeping
+* Do not link publicly your email to telephone number
+* Do not disclose WHERE you trade
+* Do not disclose how much you trade
+* Do not post a picture of your new sport car in specialized group
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Network
+* Keep your router up to date, if has not update: change for a new one!
+* Use WPA-2 Personal AES for Wifi
+* Do not connect from a public unencrypted WIFI hotspot
+* Use a VPN
