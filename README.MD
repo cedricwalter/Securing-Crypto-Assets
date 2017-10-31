@@ -3,6 +3,47 @@
 
 you you disagree, or want to extends this documentation, pull requests are welcomed
 
+
+# You Assets values
+* less than a few $: don't bother
+* more than 200$ -> use hardware wallet!
+* more than 10'000 and up -> continue reading ;-)
+
+# Computer
+
+**Dedicated computer**
+* QubeOS www.qubes-os.org
+  * QubesOS project, which strives to provide a “reasonably secure” workstation environment via compartmentalizing your applications into separate fully isolated VMs
+* Macos
+  * with 6% of market share not a real target, but malware exist 
+  * macos sandbox all applications from appstore
+* linux 
+  * less than 6% desktop market, not a real target, but malware exist
+* windows 10
+   * with 86% market share, heavily targeted
+
+**Shared computer** 
+May be/is compromised!
+
+* family computer used for all tasks
+* you're on the go, by friends
+ 
+**Solutions**
+* Use a hardware wallet
+* Use tails linux on a USB stick
+  * Attention tails use TOR for all traffic, some provider may detect this as a suspicious login activities
+
+## Install ONLY what you need
+* no sharewares
+* no games
+* no flash
+* no pdf viewer (chrome/firefox can do it, Adobe is well known for having zero day exploit)
+* keep your computer’s operating system and software up to date.
+
+## Encrypt disk
+if computer get stolen you don't want anybody to access anything confidential
+
+
 # Browser
 Prefer
 1. chrome: more resistant to malware
