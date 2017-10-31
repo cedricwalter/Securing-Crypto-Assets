@@ -4,10 +4,10 @@
 If you want to extends this documentation, pull requests are always welcomed
 
 
-# You Assets values
-* less than a few $: don't bother
-* more than 200$ -> use hardware wallet!
-* more than 10'000 and up -> continue reading ;-)
+# Your Assets values
+* Less than a few $: don't bother
+* More than 200$: use hardware wallet!
+* More than 10'000$ and up: continue reading ;-)
 
 # Computer
 
