@@ -1,7 +1,7 @@
 
 # Introduction
 
-you you disagree, or want to extends this documentation, pull requests are welcomed
+If you want to extends this documentation, pull requests are always welcomed
 
 
 # You Assets values
